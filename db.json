@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre": "tomate",
+        "color": "rojo",
+        "tipo": "verdura"
+    },
+    {   "id": 2,
+        "nombre": "manzana",
+        "color": "verde",
+        "tipo": "fruta"
+    },
+    {   "id": 3,
+        "nombre": "zanahoria",
+        "color": "naranja",
+        "tipo": "verdura"
+    },
+    {   "id": 4,
+        "nombre": "platano",
+        "color": "amarillo",
+        "tipo": "fruta"
+    },
+    {    "id": 5,
+        "nombre": "uva",
+        "color": "morado",
+        "tipo": "fruta"
+    }
+        
+]
